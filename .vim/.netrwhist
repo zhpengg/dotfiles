@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/disk8/z/projects/dstream/inf/computing/zookeeper/src/c/src'
+let g:netrw_dirhist_2='/home/disk8/z/projects/dstream-monitor/CM-UAP/public/stream-importer.CM-UAP.all.template'
+let g:netrw_dirhist_3='/home/disk8/z/labs/spark-build/repository'
+let g:netrw_dirhist_4='/home/disk8/z/labs/spark-build/repository/org/apache/hadoop'
+let g:netrw_dirhist_5='/home/disk8/z/labs/spark-build/repository/org/apache/hadoop/hadoop-client'
+let g:netrw_dirhist_6='/home/disk8/z/labs/spark-build/repository/org/apache/hadoop/hadoop-client/1.0.4'
+let g:netrw_dirhist_7='/home/disk8/z/projects/dstream-monitor/dstream-online/service'
